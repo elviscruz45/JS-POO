@@ -30,10 +30,6 @@ Student.prototype.aprobarCurso=function(nuevoCursito){
 
 const juanita=new Student("jaunita alejandra",15,["Curso de introduccion a la produccion de videojuegos","Curso de creacion de personajes"]);
 
-
-
-
-
 class Student2{
     constructor(name,age,cursosAprobados){
         this.name=name;
